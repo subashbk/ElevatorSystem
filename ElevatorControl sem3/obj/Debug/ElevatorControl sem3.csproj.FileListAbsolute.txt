@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\ElevatorControl sem3\ElevatorControl sem3\obj\Debug\ElevatorControl_sem3.Elevator.resources
+C:\Users\Dell\source\repos\ElevatorControl sem3\ElevatorControl sem3\obj\Debug\ElevatorControl_sem3.Properties.Resources.resources
+C:\Users\Dell\source\repos\ElevatorControl sem3\ElevatorControl sem3\obj\Debug\ElevatorControl sem3.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\ElevatorControl sem3\ElevatorControl sem3\bin\Debug\AppData\LogTable.accdb
+C:\Users\Dell\source\repos\ElevatorControl sem3\ElevatorControl sem3\bin\Debug\ElevatorControl sem3.exe.config
+C:\Users\Dell\source\repos\ElevatorControl sem3\ElevatorControl sem3\bin\Debug\ElevatorControl sem3.exe
+C:\Users\Dell\source\repos\ElevatorControl sem3\ElevatorControl sem3\bin\Debug\ElevatorControl sem3.pdb
+C:\Users\Dell\source\repos\ElevatorControl sem3\ElevatorControl sem3\obj\Debug\ElevatorControl sem3.exe
+C:\Users\Dell\source\repos\ElevatorControl sem3\ElevatorControl sem3\obj\Debug\ElevatorControl sem3.pdb
+C:\Users\Dell\source\repos\ElevatorControl sem3\ElevatorControl sem3\obj\Debug\ElevatorControl sem3.csprojAssemblyReference.cache
